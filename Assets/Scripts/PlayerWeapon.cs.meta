@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 31462c629a6fe9b48b0092dd61b1ab03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Minigun: {fileID: 4357826473808884675, guid: 72c92be30f69e224b869b21e7e2b9930, type: 3}
+  - SniperRifle: {instanceID: 0}
+  - Shotgun: {instanceID: 0}
+  - AssaultRifle: {instanceID: 0}
+  - VacuumGrenade: {fileID: 8010017740833790207, guid: 6f06f42edcdafea4fb95f4416d43e080, type: 3}
+  - MinigunImage: {fileID: 21300000, guid: 929773a89df2c8f41b8879737445e399, type: 3}
+  - SniperRifleImage: {instanceID: 0}
+  - ShotgunImage: {instanceID: 0}
+  - AssaultRifleImage: {instanceID: 0}
+  - VacuumGrenadeImage: {fileID: 21300000, guid: 0a98135c253ba4b43bd0bcf1054fc592, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

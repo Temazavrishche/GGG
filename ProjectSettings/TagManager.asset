@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MinigunFirePoint7
+  - Enemy
+  - MinigunFirePoint2
+  - MinigunFirePoint0
+  - MinigunFirePoint4
+  - MinigunFirePoint1
+  - Walls
+  - Head
+  - UIWeaponPickup
+  - MinigunFirePoint3
+  - Target
+  - MinigunFirePoint6
+  - MinigunFirePoint5
+  - Ground
+  - Minigun
+  - VacuumGrenade
+  - Box
+  - Base
+  - ArcLightning
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
