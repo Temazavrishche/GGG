@@ -14,7 +14,6 @@ public class PlayerWeapon : MonoBehaviour
     }
     private void Update()
     {
-        Debug.Log(Weapons.Count);
         CheckWeapon();
     }
 

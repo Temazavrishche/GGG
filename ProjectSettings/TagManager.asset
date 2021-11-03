@@ -4,7 +4,6 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - MinigunFirePoint7
   - Enemy
   - MinigunFirePoint2
   - MinigunFirePoint0
@@ -15,7 +14,6 @@ TagManager:
   - UIWeaponPickup
   - MinigunFirePoint3
   - Target
-  - MinigunFirePoint6
   - MinigunFirePoint5
   - Ground
   - Minigun

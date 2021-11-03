@@ -15,7 +15,7 @@ public class Minigun : MonoBehaviour
     private void Start()
     {
         FirePoints = new GameObject[8];
-        for (int i = 0; i < 8; i++)
+        for (int i = 0; i < 6; i++)
         {
             FirePoints[i] = GameObject.FindWithTag("MinigunFirePoint" + i);
         }
@@ -50,10 +50,6 @@ public class Minigun : MonoBehaviour
             instBullet(FirePoints[4]);
             yield return new WaitForSeconds(FireRate / 8);
             instBullet(FirePoints[5]);
-            yield return new WaitForSeconds(FireRate / 8);
-            instBullet(FirePoints[6]);
-            yield return new WaitForSeconds(FireRate / 8);
-            instBullet(FirePoints[7]);
             yield return new WaitForSeconds(FireRate / 8);
         }
         GetComponentInParent<PlayerSlotsController>().enabled = true;
